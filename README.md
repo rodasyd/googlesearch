@@ -1,4 +1,4 @@
-# Google Search
+# Scrape Google Search results using SerpApi
 
 1. Register at SerpApi for free
 2. add key in the .env file
